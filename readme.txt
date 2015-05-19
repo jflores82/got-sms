@@ -11,10 +11,12 @@ The songs were arranged by myself and the demo was created using twee2sam.
 Both songs were written by Ramin Djawadi for the TV Show.
 I have no affiliation with HBO, George Martin or anyone important.
 
-
 To compile the demo:
 Use twee2sam.
 Install the sources under twee2sam/examples/
+
+Download the compiled rom: 
+https://github.com/jflores82/got-sms/releases/download/v.0.5-beta/got_demo.sms
 
 Special thanks:
  haroldoop for the Twee2Sam and SAM tools.
