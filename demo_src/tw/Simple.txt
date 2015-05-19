@@ -1,0 +1,19 @@
+:: Start
+[img[got.png]]
+<<music "silent.epsgmod">>
+Game of Thrones PSG Music
+by tibone
+* [[Main Theme|MT]]
+* [[Rains of Castamere|RAINS]]
+
+:: MT
+[img[mt_stark.png]]
+<<music "main_theme.epsgmod">>
+<<pause>>
+* [[Go Back|Start]]
+
+:: RAINS
+[img[roc_lannister.png]]
+<<music "rains_of_castamere.epsgmod">>
+<<pause>>
+* [[Go Back|Start]]
